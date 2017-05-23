@@ -4,3 +4,6 @@
   - The process was done using the online Vector Graphics program http://vectorpaint.yaks.co.nz/
 
    ![Alt text](/png's/svg_icons.png?raw=true "Most but not all svg's I converted")
+
+ ### scaling resources
+ - https://css-tricks.com/scale-svg/
