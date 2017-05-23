@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.0" width="53" height="55" preserveAspectRatio="xMidYMid meet">
+    <rect id="backgroundrect" width="100%" height="100%" x="0" y="0" fill="none" stroke="none"/>
+
+    <g class="currentLayer">
+        <title>Layer 1</title>
+        <path fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-dasharray="none" stroke-linejoin="round" stroke-linecap="butt" stroke-dashoffset="" fill-rule="nonzero" opacity="1" marker-start="" marker-mid="" marker-end="" d="M1.0638275742530823,27.499999741434266 C1.0638275742530823,14.040497089822296 12.446864933392348,3.1382999420166016 26.499997475539573,3.1382999420166016 C40.55313001768681,3.1382999420166016 51.93616737682606,14.040497089822296 51.93616737682606,27.499999741434266 C51.93616737682606,40.959502393046236 40.55313001768681,51.86169954085193 26.499997475539573,51.86169954085193 C12.446864933392348,51.86169954085193 1.0638275742530823,40.959502393046236 1.0638275742530823,27.499999741434266 z" id="svg_1" class="selected"/>
+        <path fill="#000000" stroke="none" stroke-linejoin="round" stroke-dashoffset="" fill-rule="nonzero" marker-start="" marker-mid="" marker-end="" id="svg_8" d="M11.039006707980702,26.027677041290236 L14.361640144270932,22.80144949048843 L23.463941003671252,31.635384929061793 L38.63718291368387,16.912159198106085 L41.96099084040641,20.136106729437312 L23.463941003671252,38.08784003066512 " style="color: rgb(63, 191, 101);" class="" fill-opacity="1" stroke-linecap="butt"/>
+    </g>
+</svg>

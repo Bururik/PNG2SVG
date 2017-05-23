@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.0" width="53" height="55" preserveAspectRatio="xMidYMid meet">
+    <rect id="backgroundrect" width="100%" height="100%" x="0" y="0" fill="none" stroke="none"/>
+
+    <g class="currentLayer">
+        <title>Layer 1</title>
+        <rect fill="#3fbf65" stroke="#3fbf65" stroke-linecap="round" stroke-dashoffset="" fill-rule="nonzero" id="svg_1" x="1.5" y="2" width="50" height="11" style="color: rgb(0, 0, 0);" class="" stroke-opacity="1" fill-opacity="1"/>
+        <path fill="#3fbf65" stroke="#3fbf65" stroke-linecap="round" stroke-dashoffset="" fill-rule="nonzero" marker-start="" marker-mid="" marker-end="" id="svg_3" d="M15.075976832828317,29.663984974462032 L26.500000395096,13.34479886624051 L37.924023957363175,29.663984974462032 L32.21201179158536,29.663984974462032 L32.21201179158536,46.061695963317774 L20.787988998606544,46.061695963317774 L20.787988998606544,29.663984974462032 L15.075976832828317,29.663984974462032 z" style="color: rgb(0, 0, 0);" class="" transform="rotate(-179.77793884277344 26.5,29.703247070312496) " stroke-opacity="1" fill-opacity="1"/>
+    </g>
+</svg>
